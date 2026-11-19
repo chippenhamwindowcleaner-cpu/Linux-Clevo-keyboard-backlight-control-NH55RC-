@@ -1,4 +1,3 @@
-=========================================================
 CLEVO NH55RC KEYBOARD BACKLIGHT CONTROL (LINUX)
 
 
