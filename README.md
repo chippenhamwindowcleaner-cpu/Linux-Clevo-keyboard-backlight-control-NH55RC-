@@ -1,6 +1,6 @@
 =========================================================
 CLEVO NH55RC KEYBOARD BACKLIGHT CONTROL (LINUX)
-=========================================================
+
 
 A custom, lightweight Python application to control the RGB backlight on Clevo NH55RC laptops. 
 
